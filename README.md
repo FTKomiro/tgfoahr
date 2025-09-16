@@ -19,5 +19,5 @@ A HUD Remover mod for **Tainted Grail : Fall of Avalon** (Unity), Toggle HUD But
 ## Installation  
 1. Make sure to install BepInEx 5 and run the game once.
 2. Extract the contents of the `.zip` file.
-4. Copy the files into your **Tainted Grail : Fall of Avalon** root folder ("...\steamapps\common\Tainted Grail FoA").
+4. Copy the .DLL into your **Tainted Grail : Fall of Avalon** BepInEx/plugins folder ("...\steamapps\common\Tainted Grail FoA\BepInEx\plugins").
 ---
